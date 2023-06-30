@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507325133261",
+    "project_id": "lockstore-b52e8",
+    "storage_bucket": "lockstore-b52e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507325133261:android:2e6dbc35d322be31865484",
+        "android_client_info": {
+          "package_name": "com.example.ecomerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507325133261-k4cpiq5oc161mn6dkd8jj4cadu6n1d83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFOqm-MaJ7DLre0aVKrckQw_JYAJrW_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507325133261-k4cpiq5oc161mn6dkd8jj4cadu6n1d83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
