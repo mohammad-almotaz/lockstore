@@ -19,7 +19,7 @@ import 'const/language_const.dart';
 
 void main() async {
 
-  runApp(const MyApp());
+   runApp(const MyApp());
 }
 
 class MyApp extends StatefulWidget {
