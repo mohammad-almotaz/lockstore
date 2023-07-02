@@ -1,3 +1,3 @@
 # ecomerce
 
-![ScreenShots](screenshots/allscreenshot.png)
+![ScreenShots](allscreenshot.png)
